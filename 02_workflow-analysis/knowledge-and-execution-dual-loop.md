@@ -219,3 +219,7 @@ Knowledge Environment
 `Knowledge Loop + Execution Loop`
 
 开发效率与工程质量的长期提升，不仅取决于代码工具链，也取决于知识循环是否被系统化管理与自动化增强。
+
+## 11. 延伸阅读
+
+- 多循环拆分与共享机制：`./loop-decomposition-and-shared-mechanisms.md`
