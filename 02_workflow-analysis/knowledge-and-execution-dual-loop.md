@@ -223,3 +223,4 @@ Knowledge Environment
 ## 11. 延伸阅读
 
 - 多循环拆分与共享机制：`./loop-decomposition-and-shared-mechanisms.md`
+- 双循环讨论的综合结论：`./human-led-ai-augmented-engineering-system.md`
