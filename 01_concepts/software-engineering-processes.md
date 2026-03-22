@@ -190,3 +190,4 @@
 ## 延伸阅读
 
 - 进入 AI 可执行流程视角：`../02_workflow-analysis/ai-executable-workflow.md`
+- 历史法方法框架：`./historical-method.md`
