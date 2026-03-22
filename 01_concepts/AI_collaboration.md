@@ -114,3 +114,4 @@ AI 是工具，不是主体；
 - `ai-collaboration-principles-and-habits.md`
 - `../02_workflow-analysis/asset-trigger-and-taxonomy.md`
 - `../02_workflow-analysis/human-led-ai-augmented-engineering-system.md`
+- `minimal-conditions-method.md`
