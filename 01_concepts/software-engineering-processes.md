@@ -191,3 +191,4 @@
 
 - 进入 AI 可执行流程视角：`../02_workflow-analysis/ai-executable-workflow.md`
 - 历史法方法框架：`./historical-method.md`
+- 端到端生长流程：`../02_workflow-analysis/software-development-growth-process.md`
