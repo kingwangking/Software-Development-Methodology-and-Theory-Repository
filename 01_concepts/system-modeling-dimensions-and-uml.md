@@ -185,3 +185,4 @@ Problem
 - `software-engineering-processes.md`
 - `../02_workflow-analysis/software-development-growth-process.md`
 - `../02_workflow-analysis/ai-executable-workflow.md`
+- DDD 与 Clean 的核心统一：`./ddd-clean-core-unification.md`
