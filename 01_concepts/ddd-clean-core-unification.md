@@ -122,3 +122,4 @@ DDD 与 Clean 的关系可以概括为：
 - `software-engineering-processes.md`
 - `system-modeling-dimensions-and-uml.md`
 - `../02_workflow-analysis/software-development-growth-process.md`
+- 问题导向 vs 需求导向：`./problem-vs-requirement-driven-development.md`
