@@ -157,3 +157,4 @@ Infrastructure -> 决定“怎么实现”（技术、协议、存储）
 - `ddd-clean-core-unification.md`
 - `problem-vs-requirement-driven-development.md`
 - `model-first-over-naming-and-structure.md`
+- 接口本质与三层模型：`./interface-essence-and-three-layer-system-model.md`
