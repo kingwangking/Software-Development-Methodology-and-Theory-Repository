@@ -188,3 +188,4 @@ Problem
 - DDD 与 Clean 的核心统一：`./ddd-clean-core-unification.md`
 - 模型优先原则：`./model-first-over-naming-and-structure.md`
 - 不可变与事件驱动状态模型：`./immutability-and-event-driven-state-model.md`
+- 从实现语言到生命周期描述语言：`./from-implementation-language-to-lifecycle-description-language.md`
